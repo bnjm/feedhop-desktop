@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bnjm/feedhop-desktop/issues"
   },
-  "homepage": "https://github.com/bnjm/feedhop-desktop#readme"
+  "homepage": "https://github.com/bnjm/feedhop-desktop#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.32.1"
+  }
 }
