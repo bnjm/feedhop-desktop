@@ -1,0 +1,19 @@
+{
+  "name": "feedhop-desktop",
+  "version": "1.0.0",
+  "description": "Atom Wrapper around feedhop.io",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnjm/feedhop-desktop.git"
+  },
+  "author": "benjamin devine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bnjm/feedhop-desktop/issues"
+  },
+  "homepage": "https://github.com/bnjm/feedhop-desktop#readme"
+}
